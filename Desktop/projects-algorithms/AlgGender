@@ -1,0 +1,6 @@
+PrintAR ( arr, n)
+array <- {"M","F","F","M","M","M","M"}
+for index <- 0 to n-1
+hash <- ["M":4,"F":2]
+print hash //4 o3 will be printed
+

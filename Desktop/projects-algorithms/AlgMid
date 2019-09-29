@@ -1,0 +1,9 @@
+PrintAR ( arr, n)
+array <- [1,2,3,4,5]
+for index <- 0 to n-1
+print arr[index] // print 3
+===========================
+PrintAR ( arr, n)
+array <- [1,2,3,4,5,6]
+for index <- 0 to n-1
+print arr[index] // print 3 or 4
